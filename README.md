@@ -7,7 +7,7 @@ Quantum computing is a huge topic, and I felt that just using a ready-made libra
 - **Multithreading**: Optimized with OpenMP for multicore CPUs.
 - **CLI Interface**: Accepts qubit count and shots as arguments.
 
-# Mathematical Model
+## Mathematical Model
 
 This simulator models a quantum system of $N$ qubits. 
 The global state of the system is represented by a complex state vector $\left| \psi \right\rangle$ of size $2^N$:
